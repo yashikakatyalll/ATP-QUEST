@@ -1,26 +1,16 @@
-# ⚡ ATP Quest: Metabolic Mission
+⚡ ATP Quest
 
-ATP Quest is an interactive biology game designed to make learning about cellular respiration and metabolism more engaging.
+An interactive biology game focused on cellular respiration, metabolism, and ATP production.
 
-Players complete challenges and explore metabolic processes while learning how cells produce ATP.
-
-## 🎮 Features
-
-* 🧬 Interactive biology challenges
-* ⚡ Learn about ATP production and cellular respiration
-* 🧠 Quizzes and knowledge checks
-* 🎯 Gamified learning experience
-* 🤖 AI-powered features using the Gemini API
-* 📚 Designed to make complex biology concepts more approachable
-
-## 🛠️ Built With
-
-* **TypeScript**
-* **Gemini API**
-
-## 🚀 Deployment
-
-ATP Quest is deployed using Netlify
+Features
+Interactive challenges and quizzes
+Gamified biology learning
+AI-powered content using the Gemini API
+Cellular respiration and metabolic pathway activities
+Built With
+TypeScript
+Gemini API
+Netlify
 
 ## 💡 Why I Built It
 
